@@ -1,5 +1,4 @@
-/* NAME: SAMPATH THOTA
- *   ID: 25022_009
+/* 
  * PROJECT: MiniShell
  * DESCRIPTION:  A simple shell implementation supporting built-in commands, external commands, job control, signal handling and pipes.
  
